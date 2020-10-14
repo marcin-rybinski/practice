@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=06fcf5a7_002D60be_002D45f5_002Da30c_002Dbe11ae998ca6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="One #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9385168D-9855-4CA5-941F-A35A8CCEF8C1::.NETCoreApp,Version=v3.1::Linq_exercises.Challenges.One&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1ba405f5_002Db184_002D4d5e_002D94ac_002Ddb048ae1ac3a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="One #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9385168D-9855-4CA5-941F-A35A8CCEF8C1::.NETCoreApp,Version=v3.1::Linq_exercises.Challenges.One&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=71b9f503_002D9214_002D4160_002Da916_002Dd7be4db04e51/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="One" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9385168D-9855-4CA5-941F-A35A8CCEF8C1::.NETCoreApp,Version=v3.1::Linq_exercises.Challenges.One&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8f23e9bb_002D6978_002D49a7_002Db939_002D314027290989/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="One #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9385168D-9855-4CA5-941F-A35A8CCEF8C1::.NETCoreApp,Version=v3.1::Linq_exercises.Challenges.One&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

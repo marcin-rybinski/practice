@@ -91,3 +91,11 @@ E:\repos\practice\linq-exercises\Linq-exercises\Linq-exercises\obj\Debug\netcore
 E:\repos\practice\linq-exercises\Linq-exercises\Linq-exercises\obj\Debug\netcoreapp3.1\Linq-exercises.csproj.CopyComplete
 E:\repos\practice\linq-exercises\Linq-exercises\Linq-exercises\obj\Debug\netcoreapp3.1\Linq-exercises.genruntimeconfig.cache
 E:\repos\practice\linq-exercises\Linq-exercises\Linq-exercises\bin\Debug\netcoreapp3.1\MoreLinq.dll
+E:\repos\practice\linq-exercises\Linq-exercises\Linq-exercises\obj\Debug\netcoreapp3.1\Linq-exercises.csproj.CoreCompileInputs.cache
+E:\repos\practice\linq-exercises\Linq-exercises\Linq-exercises\bin\Debug\netcoreapp3.1\Linq-exercises.pdb
+E:\repos\practice\linq-exercises\Linq-exercises\Linq-exercises\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+E:\repos\practice\linq-exercises\Linq-exercises\Linq-exercises\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\repos\practice\linq-exercises\Linq-exercises\Linq-exercises\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\repos\practice\linq-exercises\Linq-exercises\Linq-exercises\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\repos\practice\linq-exercises\Linq-exercises\Linq-exercises\obj\Debug\netcoreapp3.1\Linq-exercises.dll
+E:\repos\practice\linq-exercises\Linq-exercises\Linq-exercises\obj\Debug\netcoreapp3.1\Linq-exercises.pdb
